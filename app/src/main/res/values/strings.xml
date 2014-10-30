@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">International Soccer</string>
+    <string name="channels">CHANNELS</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="group_items">
+        <item>2014 FIFA World Cup</item>
+        <item>English Premier League</item>
+        <item>Bundesliga</item>
+        <item>MLS</item>
+    </string-array>
+
+    <string-array name="expandable">
+        <item>2014 FIFA World Cup</item>
+        <item>English Premier League</item>
+        <item>Bundesliga</item>
+        <item>MLS</item>
+    </string-array>
+
+    <string-array name="brazil_2014_world_cup">
+        <item>Algeria</item>
+        <item>Argentina</item>
+        <item>Australia</item>
+        <item>Belgium</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Brazil</item>
+        <item>Cameroon</item>
+        <item>Chile</item>
+        <item>Côte d\'Ivoire</item>
+        <item>Colombia</item>
+        <item>Costa Rica</item>
+        <item>Croatia</item>
+        <item>Ecuador</item>
+        <item>England</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Greece</item>
+        <item>Honduras</item>
+        <item>Iran</item>
+        <item>Italy</item>
+        <item>Japan</item>
+        <item>Korea Republic</item>
+        <item>Mexico</item>
+        <item>Netherlands</item>
+        <item>Nigeria</item>
+        <item>Portugal</item>
+        <item>Russia</item>
+        <item>Spain</item>
+        <item>Switzerland</item>
+        <item>Uruguay</item>
+        <item>USA</item>
+    </string-array>
+
+    <string-array name="english_premier_league">
+        <item>Arsenal</item>
+        <item>Aston Villa</item>
+        <item>Burnley</item>
+        <item>Chelsea</item>
+        <item>Crystal Palace</item>
+        <item>Everton</item>
+        <item>Hull City</item>
+        <item>Leicester City</item>
+        <item>Liverpool</item>
+        <item>Manchester City</item>
+        <item>Manchester United</item>
+        <item>Newcastle United</item>
+        <item>Queens Park Rangers</item>
+        <item>Southampton</item>
+        <item>Tottenham Hotspur</item>
+        <item>Stoke City</item>
+        <item>Sunderland</item>
+        <item>Swansea City</item>
+        <item>West Bromwich Albion</item>
+        <item>West Ham United</item>
+    </string-array>
+
+    <string-array name="mls">
+        <item>Chicago Fire</item>
+        <item>Columbus Crew</item>
+        <item>D.C. United</item>
+        <item>Houston Dynamo</item>
+        <item>New England Revolution</item>
+        <item>New York Red Bulls</item>
+        <item>Montreal Impact</item>
+        <item>Philadelphia Union</item>
+        <item>Sporting Kansas City</item>
+        <item>Toronto FC</item>
+    </string-array>
+
+    <string-array name="bundesliga">
+        <item>FC Augsburg</item>
+        <item>Bayer Leverkusen</item>
+        <item>Bayern Munich</item>
+        <item>Borussia Dortmund</item>
+        <item>Borussia Monchengladbach</item>
+        <item>Eintracht Frankfurt</item>
+        <item>SC Freiburg</item>
+        <item>Hamburger SV</item>
+        <item>Hannover 96</item>
+        <item>Hertha BSC</item>
+        <item>TSG 1899 Hoffenheim</item>
+        <item>1. FC Köln</item>
+        <item>FSV Mainz 05</item>
+        <item>SC Paderborn 07</item>
+        <item>Schalke 04</item>
+        <item>VfB Stuttgart</item>
+        <item>Werder Bremen</item>
+        <item>VfL Wolfsburg</item>
+    </string-array>
+
+</resources>
